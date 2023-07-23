@@ -1,0 +1,5 @@
+import random
+me = ['dfgdfgdfg','gdgdf']
+
+fact = random.choice(me)
+print(fact)
